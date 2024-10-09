@@ -1,0 +1,16 @@
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+*.db
+*.sqlite
+*.log
+.env
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+config.py
+secrets.json
+personal_notes.txt
